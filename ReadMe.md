@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭I'm working on a client that chat through a websocket [mew.js]
-👯I’m looking to collaborate on [mew.js]
+🔭I'm working on a client that chat through a websocket [mew.js]\n
+👯I’m looking to collaborate on [mew.js]\n
 🌱I’m currently learning [Kotlin]
 
 
