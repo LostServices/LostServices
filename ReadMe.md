@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm working on a client that chat through a websocket
+🔭I'm working on a client that chat through a websocket [mew.js]
+👯I’m looking to collaborate on [mew.js]
+🌱I’m currently learning [Kotlin]
 
 
 ## 🌐 Socials:
@@ -20,5 +22,3 @@ I'm working on a client that chat through a websocket
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LostService&icon=0&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
